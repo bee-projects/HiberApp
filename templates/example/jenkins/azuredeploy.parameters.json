@@ -1,0 +1,11 @@
+{
+  "storageAccountType": {
+    "value": "Standard_LRS"
+  },
+  "imageRegistryUsername": {
+    "value": "hiberapp"
+  },
+  "imageRegistryPassword": {
+    "value": "blah"
+  }
+}
